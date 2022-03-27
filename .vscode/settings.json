@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.s": "niosii",
+        "nios2_ctrl_reg_macros.h": "c",
+        "address_map_nios2.h": "c",
+        "stdlib.h": "c"
+    }
+}
